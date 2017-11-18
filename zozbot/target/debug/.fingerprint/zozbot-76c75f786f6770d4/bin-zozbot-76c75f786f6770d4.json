@@ -1,0 +1,1 @@
+{"rustc":2301133102454374455,"features":"[]","target":11108955465152123296,"profile":731176819336294830,"deps":[["irc v0.12.5",18284080407639447660],["rand v0.3.18",13000187500142571103]],"local":[{"MtimeBased":[[1510983420,0],"/Users/haze/Projects/Rust/zozbot/target/debug/.fingerprint/zozbot-76c75f786f6770d4/dep-bin-zozbot-76c75f786f6770d4"]}],"rustflags":[]}
